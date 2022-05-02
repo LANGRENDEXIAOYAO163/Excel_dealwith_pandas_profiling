@@ -1,2 +1,6 @@
 # Excel_dealwith_pandas_profiling
 pandas基于Excel的简单分析
+这个库只需要一行代码就可以生成数据EDA报告。
+
+pandas_profiling基于pandas的DataFrame数据类型，可以简单快速地进行探索性数据分析。
+
